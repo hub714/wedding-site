@@ -1,7 +1,7 @@
 var job = null;
 var bSwingRight = true;
-var sCurrentLeft = "imgLeft5";
-var sCurrentRight = "imgRight5";
+var sCurrentLeft = "imgLeft10";
+var sCurrentRight = "imgRight10";
 
 function swing() {
 
