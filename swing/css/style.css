@@ -2,5 +2,6 @@ img.stuff {
     position: absolute;
     max-width: 100%;
     bottom: 0;
-    margin: auto
+    margin: auto;
+    display: block;
 }
