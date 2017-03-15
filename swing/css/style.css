@@ -1,5 +1,6 @@
 img.stuff {
     position: absolute;
-    max-width: 300%;
+    max-width: 100%;
     bottom: 0;
+    margin: auto
 }
