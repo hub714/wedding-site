@@ -5,8 +5,8 @@ body {
 img {
 	border: none;
 }
+
 header img {
-	margin: auto;
 	width: 350px;
 	position: absolute;
 	top: 50px;
