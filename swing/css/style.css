@@ -4,4 +4,6 @@ img.stuff {
     bottom: 0;
     margin: auto;
     display: block;
+    z-index: 1;
 }
+

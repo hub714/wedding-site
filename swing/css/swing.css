@@ -1,15 +1,16 @@
 body {
-	margin: 0 auto;
+	margin: auto;
 	padding-bottom: 15px;
-	width: 700px;
 }
 img {
 	border: none;
 }
 header img {
-	width: 414px;
-	position: relative;
+	margin: auto;
+	width: 350px;
+	position: absolute;
 	top: 50px;
+	z-index: 2;
 }
 
 img {
