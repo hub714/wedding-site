@@ -8,22 +8,31 @@ img.stuff {
 }
 
 body {
-    background: #91bcc3;
+    background: #b2c7c2;
     margin: auto;
-    padding-bottom: 15px;
+    padding-bottom: 0px;
 }
 
+#footer{
+    position: relative;
+    overflow: hidden;
+  
+}
 #footerbg {
     /*position:fixed;*/
-    background: url(/img/footer_wallpaper_scale.jpg) no-repeat;
+    background: url(/img/footer_wallpaper_scale_gradient_600px.jpg) center no-repeat;
     bottom:0;
     left:0;
     right:0;
-    height: 400px;
-    max-width: 100%;
+    height: 650px;
+    min-width: 100%;
+    min-height: 100%;
     margin: auto;
-  
+    border: none;
 }
+
+  
+
 
 #footerss {
     /*background: url(/img/footer_wallpaper.jpg) no-repeat;*/

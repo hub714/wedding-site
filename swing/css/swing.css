@@ -6,9 +6,11 @@ header img {
 	display: block;
 	margin: auto;
 	width: 350px;
-	/*position: absolute;*/
-	top: 50px;
+	position: fixed;
+	bottom: 50px;
 	z-index: 2;
+	left: 0;
+  right: 0;
 }
 
 img {
