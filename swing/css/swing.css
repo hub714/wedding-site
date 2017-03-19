@@ -3,14 +3,14 @@ img {
 }
 
 header img {
+	position: fixed;
 	display: block;
 	margin: auto;
 	width: 400px;
-	position: fixed;
 	bottom: 50px;
-	z-index: 2;
+	z-index: 99;
 	left: 0;
-  right: 0;
+	right: 0;
 }
 
 img {
